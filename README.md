@@ -1,4 +1,4 @@
-# 自己紹介
+# Hello~
 
 - 👋 こんにちは、Teoriaと申します。
 - 👀 スクリプトやツールの開発が主です。
@@ -7,13 +7,19 @@
 - よろしくお願いします。
 
 > [!TIP]\
-> VRChatやMMORPGなどのゲームが趣味です\
+> VRChatやMMORPGなどが趣味です\
 > コーディング中はworld.execute(me)をずっと聴いてます
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teoria-D&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teoria-D&layout=compact&theme=gruvbox
 )
+
+## 好きなExtension(VSCode)
+
+- テーマ: GruvBox, One Dark Pro, Material Icon Theme
+- Python関連: Ruff, autoDocstring, Black Formatter, indent-rainbow, Python Indent
+- 雑多: Error Lens, json, markdownlint, Rainbow CSV, USD Language, zenkaku
 
 ## ちょっとだけわかるツール
 
