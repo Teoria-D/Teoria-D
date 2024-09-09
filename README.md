@@ -10,6 +10,11 @@
 > VRChatやMMORPGなどのゲームが趣味です\
 > コーディング中はworld.execute(me)をずっと聴いてます
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teoria-D&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teoria-D&layout=compact&theme=gruvbox
+)
+
 ## ちょっとだけわかるツール
 
 - Git(基礎は習得できたぐらい？)
