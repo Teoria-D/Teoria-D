@@ -34,7 +34,9 @@
 - Unity 2022.3.22f1...
 - Python 3.11.9...
 
-個人で作るツールはCY2024を基準にしたいなと考えてます\
+個人で作るツールはCY2024を基準を想定\
+[VFX Reference Platform](https://vfxplatform.com/)
+
 あとUIはかわいくしたい...
 
 ## 使えるモジュール(Python)
